@@ -11,10 +11,10 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ APIKEY TERPISAH ]━━━━━━━━━━━━━━━━━//
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
-global.owner = ['62895604670507','62895604670507','62895604670507','0','62895604670507']
-global.premium = ['62895604670507']
+global.owner = ['6282230196826','999']
+global.premium = ['6282230196826']
 global.packname = 'KoboKanaeru-MD'
-global.author = 'WhatsApp Bot'
+global.author = '© WhatsApp ✅'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -31,7 +31,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: "Infinity"
 }
 global.thumb = fs.readFileSync('./media/kitzuna.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
